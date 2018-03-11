@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
@@ -35,8 +35,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/IMG_3378.jpg) no-repeat center center;
-   
+    background: url(../img/manoir.jpg) no-repeat center center;
+
     background-size: cover;
 }
 
@@ -49,7 +49,7 @@ h6 {
    background: url(../img/banner-bg2.png) no-repeat center center;*/
    /* background: url(https://media.giphy.com/media/LVBH3rg1BUROw/giphy.gif) no-repeat center center; */
    background: url(https://media.giphy.com/media/1cbm04aWsaZuo/giphy.gif) no-repeat center center;
-   
+
     background-size: cover;
 }
 
@@ -64,7 +64,7 @@ h6 {
    background: url(../img/banner-bg2.png) no-repeat center center;*/
    /* background: url(https://media.giphy.com/media/LVBH3rg1BUROw/giphy.gif) no-repeat center center; */
    background: url(https://media.giphy.com/media/WUu9EGdSEImJy/giphy.gif) no-repeat center center;
-   
+
     background-size: cover;
 }
 
@@ -78,7 +78,7 @@ h6 {
    background: url(../img/banner-bg2.png) no-repeat center center;*/
    /* background: url(https://media.giphy.com/media/LVBH3rg1BUROw/giphy.gif) no-repeat center center; */
    background: url(../img/13015070_10156849630745425_659042390_n.jpg) no-repeat center center;
-   
+
     background-size: cover;
 }
 
@@ -170,17 +170,17 @@ h6 {
 .banner{
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/img61.jpg) no-repeat center center; 
-   
+    background: url(../img/img61.jpg) no-repeat center center;
+
     background-size: cover;
 }
 
 .banner2 {
     padding: 100px 0;
     color: #f8f8f8;
-   background: url(../img/IMG_34201.jpg) no-repeat center center; 
+   background: url(../img/IMG_34201.jpg) no-repeat center center;
    /*
-   background: url(https://media.giphy.com/media/1cbm04aWsaZuo/giphy.gif) no-repeat center center; 
+   background: url(https://media.giphy.com/media/1cbm04aWsaZuo/giphy.gif) no-repeat center center;
    */
    background-size: cover;
 }
@@ -188,10 +188,10 @@ h6 {
 .banner3 {
     padding: 100px 0;
     color: #f8f8f8;
-   /* background: url(../img/banner-bg2.png) no-repeat center center; 
+   /* background: url(../img/banner-bg2.png) no-repeat center center;
    background: url(https://media.giphy.com/media/K0k6Oxh8whEFW/giphy.gif) no-repeat center center; */
    background: url(../img/IMG_3390.png) no-repeat center center;
-   
+
     background-size: cover;
 }
 
