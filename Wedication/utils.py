@@ -9,15 +9,18 @@ import os
 import argparse
 from twilio.rest import Client
 
+# Flask
+SERVER_IP          = os.environ['SERVER_IP']
+
 # Parameters from Google API
 CLIENT_SECRET_FILE = 'client_secret.json'
 SCOPES             = ['https://spreadsheets.google.com/feeds']
 APPLICATION_NAME   = 'PP-60-ans'
-WORKBOOK           = "60ans_PP"
+WORKBOOK           = os.environ['Twilio_workbook']
 
 # Parameters from twilio
-ACCOUNT_SID        = 'ACc0f384d057e028db7c50c8f5174de10a'
-AUTH_TOKEN         = 'ead4d26a2dabc514ea0a78d658cc105a'
+ACCOUNT_SID = os.environ['Twilio_account_per']
+AUTH_TOKEN  = os.environ['Twilio_account_token_per']
 
 
 def get_credentials(secret_file, scopes, application):

@@ -126,4 +126,4 @@ def hello_guest():
     return str(resp)
 
 if __name__ == "__main__":
-    app.run(port=8080)
+    app.run(host=SERVER_IP, port=8080)
